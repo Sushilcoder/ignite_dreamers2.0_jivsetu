@@ -58,10 +58,9 @@ Healthcare records today are fragmented across hospitals, vulnerable to breaches
 
 ## Architecture Overview
 
-```
 <img width="2560" height="1223" alt="image" src="https://github.com/user-attachments/assets/e973d40d-f1e5-4eee-8260-0ee852b25009" />
 
-```
+
 
 ---
 
