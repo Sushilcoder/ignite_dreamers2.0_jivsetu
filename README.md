@@ -20,7 +20,6 @@
   - [Environment Setup](#environment-setup)
   - [Running the Project](#running-the-project)
 - [Demo](#demo)
-- [ML / AI Models](#ml--ai-models) *(remove section if not applicable)*
 - [Team](#team)
 
 ---
@@ -62,9 +61,11 @@ Healthcare records today are fragmented across hospitals, vulnerable to breaches
 ```
 [Paste a simple ASCII or text diagram of your system here]
 
-User → Frontend  → Backend API → Database
-                      ↓
-                     IPFS  
+Patient  → Frontend  → Blockchain →    → IPFS    
+                      ↓                   ↓
+            File Encrypted (AES 256)      ↓ →   → Database
+                      ↓                   ↓ 
+            Hash Stored in IPFS   →    →  Doctor 
 ```
 
 ---
@@ -83,13 +84,20 @@ User → Frontend  → Backend API → Database
 git clone https://github.com/Sushilcoder/ignite_dreamers2.0_jivsetu.git
 cd https://github.com/Sushilcoder/ignite_dreamers2.0_jivsetu.git
 
-# Install frontend dependencies
-cd frontend
-npm install
+First, run the development server:
 
-# Install backend dependencies
-cd ../backend
-pip install -r requirements.txt   # or: npm install
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
 ```
 
 ### Environment Setup
@@ -105,6 +113,13 @@ See [env.example](env.example) for all required variables and descriptions.
 ### Running the Project
 
 ```bash
+
+#connect with metamask
+1)You have to download Metamask.io Extension to run the website (https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+2)After that signup
+3)Then you will entered to the websites main heroic page.
+4) .env file is gitignored in the repository 
+
 # Start the backend
 cd backend
 npm run dev          # or: uvicorn main:app --reload
@@ -115,7 +130,19 @@ npm run dev
 ```
 
 Frontend: `http://localhost:3000`
-Backend API: `http://localhost:8000`
+
+
+## Learn More
+
+To learn more, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+
+<a href="https://v0.app/chat/api/kiro/clone/Sushilcoder/Jivsetu_Decentralized_HealthCare_Record_System" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+
+
 
 ---
 
@@ -123,14 +150,22 @@ Backend API: `http://localhost:8000`
 
 ### Screenshots
 
-| Feature | Screenshot |
-|---------|------------|
-| [Feature 1] | ![Feature 1](demo/screenshots/feature1.png) |
-| [Feature 2] | ![Feature 2](demo/screenshots/feature2.png) |
+| Feature     | Screenshot                                                                                                                                    |  
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [Feature 1] | ![Feature 1](<img width="1671" height="871" alt="image" src="https://github.com/user-attachments/assets/08e4b400-18ce-41d6-852a-835c8b697414" />
+) |
+| [Feature 2] | ![Feature 2](<img width="1550" height="895" alt="image" src="https://github.com/user-attachments/assets/8eff9f34-d6a4-4853-9ee8-7f6ad29f6ebd" />
+) |
+| [Feature 2] | ![Feature 2](<img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/e0d7cd4d-f84b-484c-ba78-02dd98571286" />
+) |
+| [Feature 2] | ![Feature 2](<img width="901" height="723" alt="image" src="https://github.com/user-attachments/assets/1751b84a-4110-4c19-bc0e-6e088057861b" />
+) |
+
+
 
 ### Video Demo
 
-[Link to demo video — YouTube, Google Drive, or Loom]
+
 
 ---
 
