@@ -59,13 +59,8 @@ Healthcare records today are fragmented across hospitals, vulnerable to breaches
 ## Architecture Overview
 
 ```
-[Paste a simple ASCII or text diagram of your system here]
+<img width="2560" height="1223" alt="image" src="https://github.com/user-attachments/assets/e973d40d-f1e5-4eee-8260-0ee852b25009" />
 
-Patient  → Frontend  → Blockchain →    → IPFS    
-                      ↓                   ↓
-            File Encrypted (AES 256)      ↓ →   → Database
-                      ↓                   ↓ 
-            Hash Stored in IPFS   →    →  Doctor 
 ```
 
 ---
