@@ -152,13 +152,13 @@ To learn more, take a look at the following resources:
 
 | Feature     | Screenshot                                                                                                                                    |  
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [Feature 1] | ![Feature 1](<img width="1671" height="871" alt="image" src="https://github.com/user-attachments/assets/08e4b400-18ce-41d6-852a-835c8b697414" />
+| Feature 1 |(<img width="1671" height="871" alt="image" src="https://github.com/user-attachments/assets/08e4b400-18ce-41d6-852a-835c8b697414" />
 ) |
-| [Feature 2] | ![Feature 2](<img width="1550" height="895" alt="image" src="https://github.com/user-attachments/assets/8eff9f34-d6a4-4853-9ee8-7f6ad29f6ebd" />
+| Feature 2] |(<img width="1550" height="895" alt="image" src="https://github.com/user-attachments/assets/8eff9f34-d6a4-4853-9ee8-7f6ad29f6ebd" />
 ) |
-| [Feature 2] | ![Feature 2](<img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/e0d7cd4d-f84b-484c-ba78-02dd98571286" />
+| Feature 3 |(<img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/e0d7cd4d-f84b-484c-ba78-02dd98571286" />
 ) |
-| [Feature 2] | ![Feature 2](<img width="901" height="723" alt="image" src="https://github.com/user-attachments/assets/1751b84a-4110-4c19-bc0e-6e088057861b" />
+| Feature 4 |(<img width="901" height="723" alt="image" src="https://github.com/user-attachments/assets/1751b84a-4110-4c19-bc0e-6e088057861b" />
 ) |
 
 
@@ -172,11 +172,11 @@ To learn more, take a look at the following resources:
 
 ## Team
 
-| Name   | Role      | GitHub                                         |
-|--------|-----------|------------------------------------------------|
-| [Name] | Fullstack | [@sushilcoder](https://github.com/Sushilcoder) |
-| [Name] | Frontend  | [@Ashawat07](https://github.com/Ashawat07)     |
-| [Name] | Research  | [@VEDS-22](https://github.com/VEDS-22)         |
+| Name          | Role      | GitHub                                         |
+|---------------|-----------|------------------------------------------------|
+|Sushil Giri    | Fullstack | [@sushilcoder](https://github.com/Sushilcoder) |
+|Aswad Ransing  | Frontend  | [@Ashawat07](https://github.com/Ashawat07)     |
+|Vedika Kurkute | Research  | [@VEDS-22](https://github.com/VEDS-22)         |
 
 ---
 
