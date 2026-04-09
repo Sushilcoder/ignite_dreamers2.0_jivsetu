@@ -26,8 +26,9 @@
 ---
 
 ## Introduction
+<img width="2560" height="1254" alt="image" src="https://github.com/user-attachments/assets/6b41ad83-6d07-4fa2-96a0-866cbad9a1dc" />
 
-[Write 2–4 sentences introducing your project. What is it? What does it do at a high level?]
+
 
 ---
 
@@ -47,19 +48,16 @@ Healthcare records today are fragmented across hospitals, vulnerable to breaches
 
 ## Tech Stack
 
-| Layer      | Technology              |
-|------------|-------------------------|
-| Frontend   | [e.g. React, Next.js]   |
-| Backend    | [e.g. Node.js, FastAPI] |
-| Database   | [e.g. PostgreSQL, MongoDB] |
-| AI / ML    | [e.g. Gemini API, scikit-learn] *(if applicable)* |
-| Deployment | [e.g. Vercel, Railway, Docker] |
+| Layer      | Technology                                        |
+|------------|---------------------------------------------------|
+| Frontend   | [Javascript,CSS,Typescript, Next.js]              |
+| Backend    | [Supabse,Node.js, FastAPI]                        |
+| Database   | [PostgreSQL,Supabase,Pinata,Alchemy]              |
+| Deployment | [Vercel]                                          |
 
 ---
 
 ## Architecture Overview
-
-See [docs/architecture.md](docs/architecture.md) for a detailed breakdown.
 
 ```
 [Paste a simple ASCII or text diagram of your system here]
@@ -82,8 +80,8 @@ User → Frontend  → Backend API → Database
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-org]/[your-repo].git
-cd [your-repo]
+git clone https://github.com/Sushilcoder/ignite_dreamers2.0_jivsetu.git
+cd https://github.com/Sushilcoder/ignite_dreamers2.0_jivsetu.git
 
 # Install frontend dependencies
 cd frontend
@@ -139,12 +137,11 @@ Backend API: `http://localhost:8000`
 
 ## Team
 
-| Name | Role | GitHub |
-|------|------|--------|
-| [Name] | [e.g. Full Stack / ML / Backend] | [@username](https://github.com/username) |
-| [Name] | [Role] | [@username](https://github.com/username) |
-| [Name] | [Role] | [@username](https://github.com/username) |
-| [Name] | [Role] | [@username](https://github.com/username) |
+| Name   | Role      | GitHub                                         |
+|--------|-----------|------------------------------------------------|
+| [Name] | Fullstack | [@sushilcoder](https://github.com/Sushilcoder) |
+| [Name] | Frontend  | [@Ashawat07](https://github.com/Ashawat07)     |
+| [Name] | Research  | [@VEDS-22](https://github.com/VEDS-22)         |
 
 ---
 
