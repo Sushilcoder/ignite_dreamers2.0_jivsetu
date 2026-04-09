@@ -1,8 +1,9 @@
 # [Project Name] — IEEE Ignite Hackathon
 
-> **Team Name:** [Your Team Name]
-> **Track / Problem Statement:** [Track Name]
-> **Hackathon:** IEEE Ignite [Year]
+> **Team Name:** Dreamers 2.0
+> **Track / Problem Statement:** Cyber Security,Web & Network Security (HealthCare)
+
+> **Hackathon:** IEEE Ignite 2026
 
 ---
 
@@ -32,13 +33,15 @@
 
 ## Problem Statement
 
-[Describe the real-world problem your project addresses. Be specific — who is affected, how severely, and why existing solutions fall short.]
+Healthcare records today are fragmented across hospitals, vulnerable to breaches, and inaccessible during emergencies. Patients lack ownership and control over their medical data, resulting in inefficiency, increased costs, and delayed treatment
+<img width="9159" height="175" alt="image" src="https://github.com/user-attachments/assets/ad3980b9-770b-421e-b9e0-bde3c719db8a" />
 
----
 
 ## Our Solution
 
-[Explain how your project solves the problem. Focus on the impact, not just the features. What makes your approach unique or better than alternatives?]
+1) Medical reports (PDFs, scans, prescriptions) are encrypted and stored on IPFS, while only their hash Content Identifier (CID) and access permissions are stored on the blockchain via smart contracts.
+2)  Patients can grant or revoke access to doctors, hospitals, or labs in real time, ensuring privacy and transparency.
+3)  The USP of the project is true data ownership—patients are not just users but actual owners of their health data
 
 ---
 
@@ -61,9 +64,9 @@ See [docs/architecture.md](docs/architecture.md) for a detailed breakdown.
 ```
 [Paste a simple ASCII or text diagram of your system here]
 
-User → Frontend → Backend API → Database
+User → Frontend  → Backend API → Database
                       ↓
-                  ML Service (if any)
+                     IPFS  
 ```
 
 ---
@@ -72,8 +75,8 @@ User → Frontend → Backend API → Database
 
 ### Prerequisites
 
-- Node.js >= 18 / Python >= 3.10 *(adjust to your stack)*
-- [Any other required tools, e.g. Docker, PostgreSQL]
+- Node.js >= 18 *
+- Supabase
 
 ### Installation
 
@@ -133,19 +136,6 @@ Backend API: `http://localhost:8000`
 
 ---
 
-## ML / AI Models
-
-> Remove this section entirely if your project does not use ML or AI.
-
-See [docs/ml-ai.md](docs/ml-ai.md) for full details including:
-- Model selection rationale
-- Features and classes
-- Evaluation scores (accuracy, F1, etc.)
-- Dataset links
-
-If using an LLM or AI API (Gemini, Claude, OpenAI, etc.), document the prompts and integration in [docs/ml-ai.md](docs/ml-ai.md).
-
----
 
 ## Team
 
