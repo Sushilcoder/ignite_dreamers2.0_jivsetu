@@ -49,10 +49,10 @@ Healthcare records today are fragmented across hospitals, vulnerable to breaches
 
 | Layer      | Technology                                        |
 |------------|---------------------------------------------------|
-| Frontend   | [Javascript,CSS,Typescript, Next.js]              |
-| Backend    | [Supabse,Node.js, FastAPI]                        |
-| Database   | [PostgreSQL,Supabase,Pinata,Alchemy]              |
-| Deployment | [Vercel]                                          |
+| Frontend   | Javascript,CSS,Typescript, Next.js                |
+| Backend    | Supabse,Node.js, FastAPI                          |
+| Database   | Supabase,Pinata,Alchemy                           |
+| Deployment | Vercel                                            |
 
 ---
 
@@ -74,7 +74,7 @@ Patient  → Frontend  → Blockchain →    → IPFS
 
 ### Prerequisites
 
-- Node.js >= 18 *
+- Node.js >= 18 
 - Supabase
 
 ### Installation
@@ -150,16 +150,12 @@ To learn more, take a look at the following resources:
 
 ### Screenshots
 
-| Feature     | Screenshot                                                                                                                                    |  
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Feature 1 |(<img width="1671" height="871" alt="image" src="https://github.com/user-attachments/assets/08e4b400-18ce-41d6-852a-835c8b697414" />
-) |
-| Feature 2] |(<img width="1550" height="895" alt="image" src="https://github.com/user-attachments/assets/8eff9f34-d6a4-4853-9ee8-7f6ad29f6ebd" />
-) |
-| Feature 3 |(<img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/e0d7cd4d-f84b-484c-ba78-02dd98571286" />
-) |
-| Feature 4 |(<img width="901" height="723" alt="image" src="https://github.com/user-attachments/assets/1751b84a-4110-4c19-bc0e-6e088057861b" />
-) |
+| Feature     | Screenshot                                                                                                                       |  
+|-------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Feature 1   |<img width="1671" height="871" alt="image" src="https://github.com/user-attachments/assets/08e4b400-18ce-41d6-852a-835c8b697414"/>|
+| Feature 2   |<img width="1550" height="895" alt="image" src="https://github.com/user-attachments/assets/8eff9f34-d6a4-4853-9ee8-7f6ad29f6ebd"/>|
+| Feature 3   |<img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/e0d7cd4d-f84b-484c-ba78-02dd98571286"/> |
+| Feature 4   |<img width="901" height="723" alt="image" src="https://github.com/user-attachments/assets/1751b84a-4110-4c19-bc0e-6e088057861b"/> | 
 
 
 
