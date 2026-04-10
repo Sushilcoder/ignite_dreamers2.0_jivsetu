@@ -108,6 +108,9 @@ See [env.example](env.example) for all required variables and descriptions.
 
 ```bash
 
+Click the link below to directly dive into the website 
+https://v0-decentralized-healthcare-records-eight.vercel.app/
+
 #connect with metamask
 1)You have to download Metamask.io Extension to run the website (https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 2)After that signup
@@ -123,7 +126,7 @@ cd frontend
 npm run dev
 ```
 
-Frontend: `http://localhost:3000`
+Frontend: `http://localhost:3000` or `https://v0-decentralized-healthcare-records-eight.vercel.app/`
 
 
 ## Learn More
