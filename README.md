@@ -34,7 +34,6 @@
 ## Problem Statement
 
 Healthcare records today are fragmented across hospitals, vulnerable to breaches, and inaccessible during emergencies. Patients lack ownership and control over their medical data, resulting in inefficiency, increased costs, and delayed treatment
-<img width="9159" height="175" alt="image" src="https://github.com/user-attachments/assets/ad3980b9-770b-421e-b9e0-bde3c719db8a" />
 
 
 ## Our Solution
@@ -49,9 +48,9 @@ Healthcare records today are fragmented across hospitals, vulnerable to breaches
 
 | Layer      | Technology                                        |
 |------------|---------------------------------------------------|
-| Frontend   | Javascript,CSS,Typescript, Next.js                |
+| Frontend   | Javascript,CSS,Typescript, Next.js,Metamask       |
 | Backend    | Supabse,Node.js, FastAPI                          |
-| Database   | Supabase,Pinata,Alchemy                           |
+| Database   | Supabase,Pinata,Alchemy,IPFS                      |
 | Deployment | Vercel                                            |
 
 ---
